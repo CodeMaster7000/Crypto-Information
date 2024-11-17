@@ -8,3 +8,7 @@ A Python program to retrieve real-time information on stocks and currencies.
 
 - Python 3
 - `Binance API` (can be obtained [here](https://www.binance.com/en-GB/binance-api))
+
+## Implementation
+
+Download `src`, then run either of the two programs. Enjoy!
